@@ -28,9 +28,6 @@ import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import intothegrass from "../public/intothegrass.jpeg";
 import bees from '../public/bees.PNG'
-import code from "../public/code.png";
-import design from "../public/design.png";
-import consulting from "../public/consulting.png";
 import Image from "next/image";
 import Navbar from "./components/Navbar";
 import Link from "next/link";

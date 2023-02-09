@@ -29,9 +29,6 @@ import { useState } from "react";
 import Navbar from "./components/Navbar"
 import swe from "../public/swe.JPG";
 import poet from "../public/thepoet.jpeg";
-import code from "../public/code.png";
-import design from "../public/design.png";
-import consulting from "../public/consulting.png";
 import Image from "next/image";
 import web1 from "../public/web1.png";
 import web2 from "../public/web2.png";
