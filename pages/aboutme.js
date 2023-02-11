@@ -26,7 +26,7 @@ import {
 
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import Navbar from "./components/Navbar"
+import Navbar from "./components/Navbar";
 import swe from "../public/swe.JPG";
 import poet from "../public/thepoet.jpeg";
 import Image from "next/image";
