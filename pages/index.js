@@ -78,7 +78,7 @@ export default function Home() {
               <a href="https://medium.com/@shadmanc"><AiFillMediumCircle/></a>
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
+              {/* <Image src={deved} layout="fill" objectFit="cover" /> */}
             </div>
           </div>
           <div className="pb-10">
@@ -128,58 +128,58 @@ export default function Home() {
           </div>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="basis-1/3 flex-1 ">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web1}
-              />
+              /> */}
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web2}
-              />
+              /> */}
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web3}
-              />
+              /> */}
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web4}
-              />
+              /> */}
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web5}
-              />
+              /> */}
             </div>
             <div className="basis-1/3 flex-1">
-              <Image
+              {/* <Image
                 className="rounded-lg object-cover"
                 width={"100%"}
                 height={"100%"}
                 layout="responsive"
                 src={web6}
-              />
+              /> */}
             </div>
           </div>
         </section>
