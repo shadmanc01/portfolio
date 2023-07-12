@@ -27,14 +27,14 @@ import {
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
 import Navbar from "./components/Navbar"
-import deved from "../public/mainpicture.jpg";
-import Image from "next/image";
-import web1 from "../public/web1.png";
-import web2 from "../public/web2.png";
-import web3 from "../public/web3.png";
-import web4 from "../public/web4.JPEG";
-import web5 from "../public/web5.png";
-import web6 from "../public/web6.png";
+// import deved from "../public/mainpicture.jpg";
+// import Image from "next/image";
+// import web1 from "../public/web1.png";
+// import web2 from "../public/web2.png";
+// import web3 from "../public/web3.png";
+// import web4 from "../public/web4.JPEG";
+// import web5 from "../public/web5.png";
+// import web6 from "../public/web6.png";
 import Link from 'next/link';
 
 export default function Home() {

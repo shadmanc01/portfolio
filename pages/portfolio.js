@@ -26,8 +26,8 @@ import {
   } from "react-icons/si";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
-import intothegrass from "../public/intothegrass.jpeg";
-import bees from '../public/bees.PNG'
+// import intothegrass from "../public/intothegrass.jpeg";
+// import bees from '../public/bees.PNG'
 import Image from "next/image";
 import Navbar from "./components/Navbar";
 import Link from "next/link";
@@ -166,7 +166,7 @@ export default function portfolio() {
             
           </div>
           <div className="mx-auto bg-gradient-to-b from-teal-500 w-100 h-100 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={bees} layout="fill" objectFit="cover" />
+              {/* <Image src={bees} layout="fill" objectFit="cover" /> */}
           </div>
           <Link href='https://shadmanc01.github.io/IntoTheTallGrass/'><h3 className="dark:md:hover:text-sky-300 text-center p-10 text-3xl py-2 text-amber-300 font-medium dark:text-amber-300 md:text-3xl pt-10">Check it Out</h3></Link>
             <Link href='https://github.com/shadmanc01/IntoTheTallGrass'><h3 className="dark:md:hover:text-sky-300 text-center pb-15 p-10 text-3xl py-2 text-amber-300 font-medium dark:text-amber-300 md:text-3xl pt-10">Github Repo</h3></Link>
