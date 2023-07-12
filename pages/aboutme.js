@@ -73,7 +73,7 @@ export default function about() {
             I've always seen myself as a creator. Ever since I was young, I could be found creating action figures out of sketches on pieces of paper and expressing myself through writing. Unfortunately, I was never able to use my creative side in school or college. I always saw my skills as a hobby and something that I could never use to pursue a career. In late 2021, my friend reignited his passion for development when he joined The Marcy Lab School, and as a fellow college burnout, I was intrigued. For the past year and a half, I have been following the 1% daily growth mantra and doing so has allowed me to finally use my creativity, combined with the skills I have gained in coding. My first project, For the Bees, aimed to raise awareness about the declining bee population through a visually appealing website designed with HTML and CSS. My second project, snkrHub, combined my love for sneakers and web development, creating a user-friendly portfolio for sneaker enthusiasts to curate and track their collections. My latest project, mentee. , showcases my full potential as a web developer and creative, by providing an innovative platform to connect underrepresented and nontraditional people in tech with mentors and community. I am proud of the unique and impactful projects I have created, demonstrating the power of combining creativity and technical skills.
             </p>
             <div className="rounded-lg p-5 mx-auto bg-gradient-to-b from-teal-500 w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              {/* <Image src={swe} layout="fill" objectFit="cover" /> */}
+              <Image src={swe} layout="fill" objectFit="cover" />
             </div>
 
             <h3 className="pt-20 text-2xl py-2 dark:text-white md:text-3xl">
@@ -89,7 +89,7 @@ export default function about() {
             Software Engineering may be a profession I love and hold close to my heart, but I believe in having multiple passions and pursuing them all with equal fervor. One of my dreams is to start my own cafe-bar hybrid, where people can come to refuel and unwind. A bright and inviting space, filled with the aroma of espresso, natural greenery, and a hint of whiskey. By day, it would be a place for collaboration and productivity, while by night, it would be a cozy refuge to relax and do what your heart desires.
             </p>
             <div className="rounded-lg p-5 mx-auto bg-gradient-to-b from-teal-500 w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              {/* <Image src={poet} layout="fill" objectFit="cover" /> */}
+              <Image src={poet} layout="fill" objectFit="cover" />
             </div>
           </div> 
         </section>
