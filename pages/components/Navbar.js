@@ -36,10 +36,10 @@ const Navbar = () => {
         <Link href='/portfolio'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
           Portfolio
         </h3></Link>
-        <Link href='/aboutme'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
+        <Link href='/resume'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
           Resume
         </h3></Link>
-        <Link href='/aboutme'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
+        <Link href='/blog'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
           Blog
         </h3></Link>
         <Link href='/aboutme'><h3 className="mt-20 text-4xl font-semibold text-white dark:md:hover:text-sky-400">
